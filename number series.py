@@ -16,4 +16,16 @@ elif(s==4):
         if(i%5==0):
             print(i)
             
-
+'''enter the no:
+1:odd
+2:even
+3:div by 3
+4:div by 5
+3
+3
+6
+9
+12
+15
+18
+'''
